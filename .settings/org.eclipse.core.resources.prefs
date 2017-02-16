@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//performance/config/config.py=utf-8
+encoding//performance/libs/base.py=utf-8
+encoding//performance/libs/device_monitor.py=utf-8
+encoding//performance/libs/mail.py=utf-8
+encoding//performance/libs/set_config.py=utf-8
+encoding//performance/monkey/monkey.py=utf-8
+encoding//performance/monkey/monkey_server.py=utf-8
+encoding//performance/monkey/monkey_stop.py=utf-8
